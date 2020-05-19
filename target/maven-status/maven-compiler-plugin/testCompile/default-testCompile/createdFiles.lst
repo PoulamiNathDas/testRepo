@@ -1,0 +1,5 @@
+testCases\TC01_LoginTest.class
+testCases\TC04_LoginTest.class
+com\busyqa\tests\MavenTest\AppTest.class
+testCases\TC03_LoginTest.class
+testCases\TC02_LoginTest.class
